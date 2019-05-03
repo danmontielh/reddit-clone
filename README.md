@@ -1,25 +1,6 @@
-# README
+Microverse Ruby on Rails project: Building with Active Record
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project specification: build the data structures necessary to support users, post submissions and commenting
 
-Things you may want to cover:
+Author: Fabio Carmo / Daniel Montiel
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# reddit-clone
